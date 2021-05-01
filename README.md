@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @OzodbekOzodov
+- 👀 I’m interested in Empirics, Data Science, Analysis, Econometrics...
+- 🌱 I’m currently learning Python, SQL, R and Stata
+- 📫 How to reach me: o.ozodov97@gmail.com
