@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @OzodbekOzodov
-- 👀 I’m interested in Empirics, Data Science, Analysis, Econometrics...
+- 💻 Open for jobs in Machine Learning and Data Science
+- 👀 I’m interested in Data Science, ML, Analytics, Econometrics...
 - 🌱 I’m currently learning Python, SQL, R and Stata
 - 📫 How to reach me: o.ozodov97@gmail.com
