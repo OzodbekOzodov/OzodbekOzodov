@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OzodbekOzodov
-- 💻 Open for jobs in Machine Learning and Data Science
+- 💻 Open for jobs in Quantitative Finance, Data Science and Machine Learning
 - 👀 I’m interested in Data Science, ML, Analytics, Econometrics...
 - 🌱 I’m currently learning Python, SQL, R and Stata
 - 📫 How to reach me: o.ozodov@outlook.com
