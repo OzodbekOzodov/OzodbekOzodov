@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @OzodbekOzodov
 - 💻 Data Science, Machine Learning, Quantitative Finance
-- 👀 I’m interested in Data Science, ML, Analytics, Econometrics...
 - 🌱 I’m currently learning Python, SQL, R and Stata
 - 📫 How to reach me: o.ozodov@outlook.com
